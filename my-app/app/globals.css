@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #005ca8;
+  --bg-primary-light: #0078db;
+}
+
+.my_container {
+  max-width: 1440px;
+  margin: auto;
+}
